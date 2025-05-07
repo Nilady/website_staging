@@ -1,10 +1,8 @@
 ---
 title: Trine 4
 subtitle: UX Lead
-{:.list-inline}
-- Date: 2018 - 2029
-- Client: Frozenbyte
-- Category: 
+timeline: 2018 - 2019
+keywords: UX Design, Design Thinking, Team Leadership, Facilitation, Communication
 image: assets/img/portfolio/trine4-full.jpg
 alt: Trine 4 key art
 
