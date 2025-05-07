@@ -42,7 +42,7 @@ The prototype was a huge success, not only proving the concept, but also eventua
 
 <img src="assets/img/portfolio/Trine4/T4_level_select_final.gif" alt="A gif of the level select menu in Trine 4" width=600><i>This is what the the level select menu looks like in the game.</i>
 
-<b><u>Skill Tree</b></u>
+<b><u>Skill Tree</u></b>
 The skill tree was more straightforward, but it contained a lot of information and was a central part of the experience, so <i>we wanted to make using it feel extra rewarding.</i> Unlike previous instalments of the game where each skill was optional and could be acquired in any order, the player got certain skills at specific times in the game, while upgrades to those skills were optional and could be acquired at any time after the main skill was unlocked.
 
 <img src="assets/img/portfolio/Trine4/skill_trees_for_T1_T2.png" alt="Skill trees in Trine and Trine 2" width=600><i>Skill trees in Trine (left) and Trine 2 (right).</i>
@@ -51,7 +51,7 @@ I designed the layout for it and the UI artist focused on making all the interac
 
 <img src="assets/img/portfolio/Trine4/T4_skilltree_late_mockup.jpg" alt="Mockup of a skill tree in Trine 4" width=600><i>Mockup I made for the skill tree in Trine 4.</i>
 
-<img src="assets/img/portfolio/Trine4/T4_skilltree_unlockWIP02.gif" alt="An animated mockup of the skill tree to showcase the different microinteractions"><i>An animated mockup of the skill tree to showcase the different microinteractions created by the UI artist.</i>
+<img src="assets/img/portfolio/Trine4/T4_skilltree_unlockWIP02.gif" alt="An animated mockup of the skill tree to showcase the different microinteractions" width=600><i>An animated mockup of the skill tree to showcase the different microinteractions created by the UI artist.</i>
 
 We had time to do this as we were involved with the project from the start. However, in this instance this came with a downside too. The number of skills grew significantly toward the end of the production and the layout no longer worked. In the end it was changed to a much simpler, grid-like layout to make it look cleaner and navigation work better.
 
