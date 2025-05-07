@@ -13,7 +13,7 @@ caption:
 ---
 Trine 4 was created at an interesting point in the series. The first two instalments were done in 2.5D, with three dimensional environment, but with movement only in 2D. The third instalment went full 3D, which was a fresh take for the series, but not well received. So Trine 4 returned back to the 2.5D approach
 
-<img>assets/img/portfolio/trine4-thumbnail.jpg</img>
+<img src="assets/img/portfolio/trine4-thumbnail.jpg" alt="Trine 4 key art">
 
 I was, together with the UI artist, in charge of the menus and their flow as well as the HUD.
 
