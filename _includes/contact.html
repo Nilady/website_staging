@@ -1,0 +1,29 @@
+<!-- Contact -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="page-section" id="{{ site.data.sitetext[site.locale].contact.section | default: "contact" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          {{ site.data.sitetext[site.locale].contact.title | markdownify | default: Contact Us }}</h2>
+        <p class="body-text">{{ site.data.sitetext[site.locale].contact.text | default: "" }}</p>
+        <h2 class="email"> {{ site.data.sitetext[site.locale].contact.email | default: "" }}</h2>
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="page-section" id="{{ site.data.sitetext.contact.section | default: "contact" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">
+          {{ site.data.sitetext.contact.title | markdownify | default: Contact Us }}</h2>
+        <div class="contact-lead-in text-muted">{{ site.data.sitetext.contact.text | default: "" }}</div>
+        <div class="email-link">{{ site.data.sitetext.contact.email | default: "" }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End Contact -->

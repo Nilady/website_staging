@@ -1,0 +1,111 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    text: Turn your vision into a lasting game experience
+
+  services:
+    title: "Services"
+    text: "The issues game developers face are often in similar areas: UX design, usability, player interaction, and general management.<br />
+With over 10 years of experience, I provide tested processes to overcome them."
+    section: services
+    list:
+      - title: "UX Design & <br /> Direction"
+        desc: "<i>Struggling to communicate your vision and turn it into an engaging experience?</i><br />
+I help define design pillars, audience personas, core features, and user flows—ensuring your product aligns with your goals and resonates with your audience, whether you're starting fresh or refining an existing design."
+        icon: far fa-compass
+      - title: "Expert <br /> Analysis"
+        desc: "<i>Are players leaving during onboarding or other specific points? Do they get lost in your game?</i><br />
+I specialize in onboarding for complex systems, providing in-depth reviews of your product (or competitors'). I identify usability issues, diagnose KPI-related problems, and deliver actionable solutions to improve engagement and retention."
+        icon: fas fa-search #find more at https://fontawesome.com/icons
+      - title: "User Testing & Playtesting Support"
+        desc: "<i>Are you confident your game delivers the experience you envision?</i><br />
+I help you understand how players and users interact with it by identifying the right test audience, running insightful user tests, and providing actionable feedback to drive success."
+        icon: fas fa-clipboard-list
+      - title: "Business & Development Process"
+        desc: "<i>Is your development process slowing you down or creating bottlenecks?</i><br />
+I help refine workflows, reduce communication friction, and optimise team structure. Together, we’ll define core concepts, map milestones, and prioritise features to create a clear path to your business goals."
+        icon: far fa-calendar-alt
+      - title: "Guidance, Mentoring & Coaching"
+        desc: "<i>Struggling with alignment or momentum?</i><br />
+An outside perspective can unlock potential. I offer both short-term guidance and long-term coaching, helping individuals and teams set achievable goals, navigate challenges, and build lasting success."
+        icon: fas fa-comments
+      - title: "Keynote Speaking & Workshops"
+        desc: "I deliver inspiring talks on player-centric development practices that equip teams with practical tools and fresh perspectives. My sessions spark innovation, foster collaboration, and empower teams to tackle challenges with confidence."
+        icon: fas fa-child
+
+  portfolio:
+    title: "Portfolio"
+    text: "Selected showcase of my work"
+    section: portfolio
+    closebutton: "Close Project"
+
+  team:
+    title: "Who Am I?"
+    text: ""
+    subtext: "Great products don’t happen by accident: they are the result of clear vision, smart decision-making, and deep understanding of the player. I help teams refine their ideas, align on strategy, and build products that resonate.  \\
+
+With 10+ years of experience in game design, product development, and team leadership, I specialise in turning creative ambition into structured, actionable plans. Whether guiding teams through complex design challenges, optimising workflows, or facilitating critical discussions, I ensure that decisions are made with confidence and clarity.  \\
+
+From early concepts to final execution, I work alongside teams to craft seamless, engaging experiences. My expertise in research, facilitation, and communication helps teams move forward efficiently—balancing innovation with practicality, creativity with strategy.  \\
+
+Let’s make something players will love."
+    section: team
+    people:
+      - image: assets/img/team/profile_pic_square_small.jpg
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "Redhill Games"
+        url: https://redhillgames.com/
+        logo: assets/img/clients/redhill.jpg
+      - title: "Bitmagic"
+        url: https://www.bitmagic.ai/
+        logo: assets/img/clients/bitmagic.jpg
+      - title: "Frozenbyte"
+        url: https://www.frozenbyte.com/
+        logo: assets/img/clients/Frozenbyte.jpg
+      - title: "PlaytestCloud"
+        url: https://www.playtestcloud.com/
+        logo: assets/img/clients/playtestcloud.jpg
+      - title: "Aurora Punks"
+        url: https://www.aurorapunks.com/
+        logo: assets/img/clients/aurorapunks.jpg
+      - title: "Games User Research"
+        url: https://gamesuserresearch.com/
+        logo: assets/img/clients/gamesuserresearch.jpg
+      - title: "Papukaya"
+        url: 
+        logo: assets/img/clients/papukaya.jpg
+
+  contact:
+    title: "Get in touch"
+    text: "Let's talk about your project and team needs. Even if I'm not the right fit, I can often point you to someone who can help you."
+    email: <a href="mailto:hello@emmavarjo.com">hello@emmavarjo.com</a>
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.linkedin.com/in/emmavarjo/
+        icon: "fab fa-linkedin-in"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
