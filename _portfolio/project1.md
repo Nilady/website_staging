@@ -11,13 +11,15 @@ caption:
   subtitle: UX Design, Team Leadership, Facilitation, Communication
   thumbnail: assets/img/portfolio/trine4-thumbnail.jpg
 ---
-Trine 4 was created at an interesting point in the series. The first two instalments were done in 2.5D, with three dimensional environment, but with movement only in 2D. The third instalment went full 3D, which was a fresh take for the series, but not well received. So Trine 4 returned back to the 2.5D approach
-
-<img src="assets/img/portfolio/trine4-thumbnail.jpg" alt="Trine 4 key art">
+Trine 4 was created at an interesting point in the series. The first two instalments were done in 2.5D, with three dimensional environment, but with movement only in 2D. The third instalment went full 3D, which was a fresh take for the series, but not well received. So Trine 4 returned back to the 2.5D approach.
 
 I was, together with the UI artist, in charge of the menus and their flow as well as the HUD.
 
 Most of the menus were fairly straight forward and mostly copies of previous instalments of the game. I made wireframes of them while the UI artist created the art style and assets for them. Before implementing anything we turned the wireframes into a clickable prototype with Adobe XD to give a sense of how the information would be displayed and how the transitions would feel.
+
+<img src="assets/img/portfolio/Trine4/T4_menu_flow_image.png" alt="Screenshot of some of the wireframes for Trine 4 menus">Screenshot of some of the wireframes for Trine 4 menus made with Adobe XD.
+
+<img src="assets/img/portfolio/Trine4/T4_basic_wireframe.gif" alt="An interactive prototype made with the wireframes for Trine 4 menus">An interactive prototype made with the wireframes for Trine 4 menus
 
 Early on, we identified two menus that would need extra attention: the level select menu and the skill tree.
 
