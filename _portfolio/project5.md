@@ -16,7 +16,7 @@ To further enhance the UX and game design efforts, I introduced expert analysis 
 During these expert reviews I paid special attention to accessibility issues which hadn't been done before. This approach was very cost effective and efficient, led to the most accessible game in the series at that time, and paved the way for more thorough accessibility efforts in future projects.
 
 {:.list-inline}
-- Date: 2018 - 2029
+- Date: 2018 - 2019
 - Client: Frozenbyte
 - Category: UX Design, Process Design, Pipeline Design, Team Leadership, Facilitation, Communication, Accessibility, Expert Analysis
 
