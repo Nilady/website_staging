@@ -1,14 +1,13 @@
 ---
 title: Trine 4
-subtitle: UX Lead
+subtitle: UX Design, Design Thinking, Team Leadership
 timeline: 2018 - 2019
-keywords: UX Design, Design Thinking, Team Leadership, Facilitation, Communication
 image: assets/img/portfolio/trine4-full.jpg
 alt: Trine 4 key art
 
 caption:
   title: Trine 4
-  subtitle: UX Design, Team Leadership, Facilitation, Communication
+  subtitle: UX Design, Design Thinking, Team Leadership
   thumbnail: assets/img/portfolio/trine4-thumbnail.jpg
 ---
 Trine 4 was created at an interesting point in the series. The first two instalments were done in 2.5D, with three dimensional environment, but with movement only in 2D. The third instalment went full 3D, which was a fresh take for the series, but not well received. So Trine 4 returned back to the 2.5D approach.
