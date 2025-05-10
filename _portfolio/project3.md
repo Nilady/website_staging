@@ -7,14 +7,14 @@ alt: Boreal Blade key art
 
 caption:
   title: Boreal Blade
-  subtitle: UX Design, Facilitation, Communication, Team Leadership, Mentoring, Coaching
+  subtitle: I joined <i>Boreal Blade</i> to take ownership of the UI, guiding the design and coaching the UI artist. I took the lead in aligning the entire development team on project focus by facilitating the creation of a game design document, which improved communication and morale, leading to a smoother launch of the game.
   thumbnail: assets/img/portfolio/boreal-blade-thumbnail.jpg
 ---
 I was asked to join the project with the mandate of owning the UI: I would design them and guide the UI artist as they created the art style for the UIs.
 
 When I joined, I quickly found the team had not documented much of anything and as the project was moving toward the end of production, the lack of clear communication was creating mounting resentment among the small team. While everyone could give the same elevator pitch for the game, everyone was also making a game with a slightly different focus, which caused an increasing amount of issues in development.
 
-I sat down with the team members individually and together and facilitated the creation of a game design document. As I helped them define the core audience, core mechanics, main sources of inspiration, and the competitors to measure the game against, the communication and morale within the team improved significantly and the transition from iteration phase to polish phase was much smoother.
+I sat down with the team members individually and together and facilitated the creation of a game design document. As I helped them define the core audience, core mechanics, main sources of inspiration, and the competitors to measure the game against, the communication and morale within the team improved significantly. After they were aligned on core mechanics and goals for the project, they could set a clear direction for the project and the transition from iteration phase to polish phase was much smoother.
 
 The UI design went fairly smoothly after the direction and focus of the game were clear. I worked together with the Creative Director in designing  minimalistic menus for the game and coached a 2D artist as they learned to create icons and other UI assets.
 
