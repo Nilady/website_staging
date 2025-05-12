@@ -1,11 +1,11 @@
 ---
-title: Setting Up a User Research Function
+title: Facilitation
 subtitle: Team Alignment, Culture Building, Roadmapping, Post Mortem, Workshops
 image: assets/img/portfolio/facilitation.jpg
 alt: A group of sticky notes on a virtual wall
 
 caption:
-  title: Setting Up a User Research Function
+  title: Facilitation
   subtitle: I am a seasoned facilitator helping teams define and build their culture, find alignment, build roadmaps, learn new skills, and wrap up projects to maximise learnings. These workshops or sessions can be either in person or online depending on the team’s needs. The length varies from a half day workshop to a week long series, depending on the team’s needs.
   thumbnail: assets/img/portfolio/facilitation.jpg
 ---
