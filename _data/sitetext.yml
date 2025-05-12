@@ -22,11 +22,11 @@ With over 10 years of experience, I provide tested processes to overcome them."
       - title: "Design"
         desc: "<i>Struggling to communicate your vision and turn it into an engaging experience?</i><br />
 I help define design pillars, audience personas, core features, and user flows—ensuring your product aligns with your goals and resonates with your audience, whether you're starting fresh or refining an existing design."
-        icon: fa-solid fa-masks-theater
+        icon: fas fa-theater-masks
       - title: "Expert <br /> Analysis"
         desc: "<i>Are players leaving during onboarding or other specific points? Do they get lost in your game?</i><br />
 I specialize in onboarding for complex systems, providing in-depth reviews of your product (or competitors'). I identify usability issues, diagnose KPI-related problems, and deliver actionable solutions to improve engagement and retention."
-        icon: fa-solid fa-signs-post #find more at https://fontawesome.com/icons
+        icon: fas fa-directions #find more at https://fontawesome.com/icons
       - title: "User Testing & Playtesting Support"
         desc: "<i>Are you confident your game delivers the experience you envision?</i><br />
 I help you understand how players and users interact with it by identifying the right test audience, running insightful user tests, and providing actionable feedback to drive success."
