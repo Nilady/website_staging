@@ -16,7 +16,7 @@ I was, together with the UI artist, in charge of the menus and their flow as wel
 
 Most of the menus were fairly straight forward and mostly copies of previous instalments of the game. I made wireframes of them while the UI artist created the art style and assets for them. Before implementing anything we turned the wireframes into a clickable prototype with Adobe XD to give a sense of how the information would be displayed and how the transitions would feel.
 
-<img src="assets/img/portfolio/Trine4/T4_menu_flow_image.png" alt="Screenshot of some of the wireframes for Trine 4 menus" width=600> class="img-fluid"<br><i>Screenshot of some of the wireframes for Trine 4 menus made with Adobe XD.</i>
+<img src="assets/img/portfolio/Trine4/T4_menu_flow_image.png" alt="Screenshot of some of the wireframes for Trine 4 menus" width=600 class="img-fluid"><br><i>Screenshot of some of the wireframes for Trine 4 menus made with Adobe XD.</i>
 
 <img src="assets/img/portfolio/Trine4/T4_basic_wireframe.gif" alt="An interactive prototype made with the wireframes for Trine 4 menus" width=600 class="img-fluid"><br><i>An interactive prototype made with the wireframes for Trine 4 menus</i>
 

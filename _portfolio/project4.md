@@ -19,7 +19,7 @@ For example, Nine Parchments shipped with over 20 different shades of yellow use
 
 To avoid this the UI artist and I created a style guide. It ensured consistency in design, reduced redundant work by programmers, and allowed for faster implementation of UI elements and entire menus. We opted to not build a full design system, as the point was to lessen the workload on programmers and we didn’t have their full buy-in for this project at the start.
 
-<image>
+<image?>
 
 This helped streamline the UI design and creation process significantly, by improving communication and shared understanding. It not only streamlined our design process, but also provided programmers with clear guidelines, reducing ambiguity, and speeding up implementation across all the teams involved in UI development. The style guide also had the added benefit of improving the accessibility of our games as the UI was more accessible by default as the accessibility features needed to be defined only once for each UI element.
 

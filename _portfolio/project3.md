@@ -18,4 +18,4 @@ I sat down with the team members individually and together and facilitated the c
 
 The UI design went fairly smoothly after the direction and focus of the game were clear. I worked together with the Creative Director in designing  minimalistic menus for the game and coached a 2D artist as they learned to create icons and other UI assets.
 
-<img src="assets/img/portfolio/BorealBlade/boreal-blade-character-customisation.jpg" alt="Screenshot of the character customisation menu in Boreal Blades" width=600><br><i>Screenshot of the character customisation menu in Boreal Blades.</i>
+<img src="assets/img/portfolio/BorealBlade/boreal-blade-character-customisation.jpg" alt="Screenshot of the character customisation menu in Boreal Blades" width=600 class="img-fluid"><br><i>Screenshot of the character customisation menu in Boreal Blades.</i>
