@@ -46,6 +46,7 @@ An outside perspective can unlock potential. I offer both short-term guidance an
   portfolio:
     title: "Portfolio"
     text: "Selected showcase of my work"
+    subtitle: Click on images for more information
     section: portfolio
     closebutton: "Close Project"
 
