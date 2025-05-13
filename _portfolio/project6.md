@@ -6,10 +6,12 @@ alt: A group of sticky notes on a virtual wall
 
 caption:
   title: Facilitation
-  subtitle: I am a seasoned facilitator helping teams define and build their culture, find alignment, build roadmaps, learn new skills, and wrap up projects to maximise learnings. These workshops or sessions can be either in person or online depending on the team’s needs. The length varies from a half day workshop to a week long series, depending on the team’s needs.
+  subtitle: I am a seasoned facilitator helping teams define and build their culture, find alignment, build roadmaps, learn new skills, and wrap up projects to maximise learnings. These workshops or sessions can be either in person or online depending on the team’s needs. The length varies from a half day workshop to a week long series, depending on what the team's current situation and objectives are.
   thumbnail: assets/img/portfolio/facilitation.jpg
 ---
-I am a seasoned facilitator helping teams define and build their culture, find alignment, build roadmaps, learn new skills, and wrap up projects to maximise learnings. These workshops or sessions can be either in person or online depending on the team’s needs. The length varies from a half day workshop to a week long series, depending on the team’s needs.
+The larger the team grows and the longer they work together, the easier communication breaks apart. While best practice is to communicate early and often, there are times when you taking a deliberate moment to focus on seemingly non-urgent things such as team alignment, culture and ways of working, building a shared vision and a roadmap to the future, or looking back and learning from mistakes and successes already past.
+
+I’ve shepherded multiple teams through discussions like this and would love to help yours. Below are some examples of sessions and workshops I’ve run.
 
 <b>Team alignment</b>
 The more team members there are and the more time passes, the more likely it is that there are breaks in communication and misalignment within the team.
@@ -39,3 +41,5 @@ For example, I was in charge of two internal projects at Redhill Games. After th
 
 <b>Workshops</b>
 I have created multiple interactive workshops to teach teams and groups new skills. These include design thinking, accessibility design, and how to use specific technical tools. After each, the participants have walked away with tangible skills or practical ideas to take back to their work.
+
+For example, I ran a half-day workshop on Game UX that covered what UX Design and UX Research are, why they matter through practical examples and hands-on exercises for game developers and students. Feedback stated they learned new concepts and mental models with which to approach design as well as a newfound appreciation of the discipline.
