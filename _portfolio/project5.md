@@ -1,52 +1,45 @@
 ---
-title: Setting Up a User Research Function
-subtitle: UX Research, Process Design, Pipeline Design, Leadership, Facilitation, Communication, Expert Analysis
-image: assets/img/portfolio/user-research.png
-alt: A thank you message people see after completing a Google Form
+title: Facilitation
+subtitle: Team Alignment, Culture Building, Roadmapping, Post Mortem, Workshops
+image: assets/img/portfolio/facilitation.jpg
+alt: A group of sticky notes on a virtual wall
 
 caption:
-  title: Setting Up a User Research Function
-  subtitle: I improved the user research process at <i>Frozenbyte</i> by introducing clearer research questions, refining playtest processes, and facilitating better cross-team communication. My initiatives, including concept tests, large-scale surveys, and expert reviews, led to more actionable insights, increased confidence in design decisions, and streamlined feedback processes.
-  thumbnail: assets/img/portfolio/user-research.png
+  title: Facilitation
+  subtitle: I am a seasoned facilitator helping teams define and build their culture, find alignment, build roadmaps, learn new skills, and wrap up projects to maximise learnings. These workshops or sessions can be either in person or online depending on the team’s needs. The length varies from a half day workshop to a week long series, depending on what the team's current situation and objectives are.
+  thumbnail: assets/img/portfolio/facilitation.jpg
 ---
-While Frozenbyte had a user research process when I joined the company, it lacked ownership and focus, which lead to unfocused insights and missed opportunities for actionable feedback.
+The larger the team grows and the longer they work together, the easier communication breaks apart. While best practice is to communicate early and often, there are times when you taking a deliberate moment to focus on seemingly non-urgent things such as team alignment, culture and ways of working, building a shared vision and a roadmap to the future, or looking back and learning from mistakes and successes already past.
 
-The established user research process was this:
-Once the game was near shipping and almost completely polished, they would invite players over to their offices to play the game and give feedback on it.
+I’ve shepherded multiple teams through discussions like this and would love to help yours. Below are some examples of sessions and workshops I’ve run.
 
-The support team would organise and moderate these sessions. They would take the latest build on the day of the test, record the entire session, and inform the game team that the videos were available for them. The more tests they ran, especially on the same game, the better observations they could make during the sessions, and flag issues directly with the team immediately after the playtest session was over.
+<h3>Team alignment</h3>
+The more team members there are and the more time passes, the more likely it is that there are <b>breaks in communication</b> and <b>misalignment</b> within the team.
 
-Over the years they have learned a lot about player perception and thinking through this process.
+I’ve designed and run custom made workshops to realign teams, surface and address any frustrations the team is harbouring, and build momentum within the entire team.
 
-Over my tenure at Frozenbyte, I improved the process is multiple ways.
+For example, the <i>Boreal Blade</i> team was completely misaligned on what kind of game they were making and frustrations were mounting as the team was moving from the iteration to polish phase of development. After guiding them through the creation of a <i>Game Design Document</i>, they had a <i>shared language and understanding</i> of what they were doing, and a way to address any changes that were not communicated clearly.
 
-As the moderators could identify some issues during the tests, we created a system for them to document their own findings in the tests and share them with the team. The intention was to speed up the flagging of obvious issues, while the designers would go over the entire footage and look for more subtle design and gameplay related issues.
+<h3>Team culture building</h3>
+Team culture consists of the <b>values, goals, and ways of working</b> that the team has.
 
-However, due to time pressures, optimism, and lack of clear boundaries on responsibilities, the designers soon started treating the reports moderators handed them, as enough. After all, the issues were obvious enough to be seen by everybody, so they must be the most important ones. But as the moderators were barely interacting with the game teams as their main task was player support, the moderators could never understand design intents or even guess what kind of feedback the designers were looking for.
+I have designed and run workshops to allow teams to define and codify their cultures. This has improved the team’s <b>communication, efficiency, and overall satisfaction</b> from the end of the workshop long into their future.
 
-During this time we also tried to bundle more test sessions into one, as previously each playtest session was analysed in isolation. This time also coincided with the pandemic, so we trialed remote playtest sessions internally.
+For example, as a young studio, the team at Bitmagic found itself in a place where the team was split into small factions with mistrust and even hostility growing between each. After a <i>half-day workshop</i>, the team felt more connected to each other and safe to proceed with their work.
 
-While these steps were all in the right direction individually, put together into the process they resulted in the same issues the teams were facing in the past. This time, however, the issues were more hidden from everyone, as the team did more, but the results were as unreliable as ever.
+<h3>Roadmapping</h3>
+Even when teams are aligned, it is sometimes difficult to prioritise all the tasks at hand. Especially when the team is diverse, the amount of tasks brought to the table can feel overwhelming without a <b>shared vision.</b>
 
-I understood that the biggest issue blocking us from getting more out of our playtests was the lack of clear research questions. The moderators, and myself, had anticipated one, but often defaulted into “we’ll log everything we see”. As a research question was never required, the teams didn’t know to pose any, thinking they'd "know the issues when they saw them".
+I’ve run Design Sprints and other workshops to clarify team vision, <b>goals</b>, and the way to reaching both.
 
-User research had effectively become a checklist item to be crossed off, not something the teams put a lot of conscious effort into.
+For example, the design team at <i>Bitmagic</i> had grand ideas, but struggled to gain momentum. I ran a <i>weeklong workshop</i> to help the team solidify a shared vision, clarify goals based on that vision, define <i>milestones</i> for the next six months, and build a roadmap to them. This helped the team and management <i>regain confidence and rebuild momentum</i> that had been lost.
 
-So, working together with management, designers, artists, writers, and developers, I set out to understand what people wanted to know about our users at any given time.
+<h3>Post Mortem</h3>
+All too often teams feel the project is completed once the product or phase is finished. This thinking robs the team and company from learning from the project and its <b>successes and failures.</b>
 
-I trialed several initiatives:
-* Concept tests for art and writing internally to see how we could feel more confident in our narrative structure and character concepts
-* Launched large-scale surveys for an MMO in beta-testing and shared findings with the entire company with infographics
-* Compiled ad hoc data collection efforts into a more concentrated and mindful one for an MMO in beta-testing to help the dev team to understand their players’ actions better and to help them find synergies between data across different features
-* Established and documented expert reviews so internal experts could give feedback to dev teams in a more structured manner
-* As part of expert reviews, got the rendering team to create colour blindness filters into our engine, so the game teams and QA could play the game in black and white or with different kinds of colour blindnesses to see if contrast between gameplay elements was ever an issue.
-* Created a template for user tests, to help game teams identify the research questions each user test could focus on as well as the question’s effect on the entire test. This also helped facilitate communication within and clarify the division of responsibilities between moderators and designers.
+For example, I was in charge of two internal projects at <i>Redhill Games</i>. After they ended, I ran a post-mortem for each team. I gathered information from them with a survey beforehand and designed the content of the half-day workshop based on the main points that arose from the survey. One team focused on a sense of <i>ownership and communication</i> in their session as they had struggled with both. The other team focused on defining the <i>structure and guidance future projects would need</i>, as these were the things that had caused their team the most issues. While the topics were difficult, both teams gleaned many insights valuable both on the individual and company level. One participant told me: <i>“I have never been in a better organised or thought-out post-mortem, and I’ve seen and even run quite a few.”</i>
 
-These initiatives had several company-wide benefits:
-* Increased confidence in design decisions
-* Enhanced cross-team and cross-discipline communication
-* Actionable insights from player data
-* Improved research efficiency
-* Streamlined internal processes for feedback
+<h3>Workshops</h3>
+I have created multiple interactive workshops to teach teams and groups <b>new skills</b>. These include <b>design thinking, accessibility design,</b> and how to use <b>specific technical tools</b>. After each, the participants have walked away with tangible skills or practical ideas to take back to their work.
 
-By the time I left the company, the teams had the capability to think about why they ran user tests, communicate effectively across different teams about the needs and capabilities of every person involved, and the tools to glean actionable insights from playtests within days or even hours after the playtest was over.
+For example, I ran a <i>half-day workshop on Game UX</i> that covered what <i>UX Design and UX Research</i> are, why they matter through practical examples and <i>hands-on exercises</i> for game developers and students. Feedback stated they learned <i>new concepts</i> and mental models with which to approach design as well as a newfound appreciation of the discipline.

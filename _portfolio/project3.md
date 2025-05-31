@@ -1,21 +1,29 @@
 ---
-title: Boreal Blade
-subtitle: UX Design, Facilitation, Communication, Team Leadership, Mentoring, Coaching
-timeline: 2018 - 2019
-image: assets/img/portfolio/boreal-blade-full.jpg
-alt: Boreal Blade key art
+title: Creating a UI Pipeline
+subtitle: UX Lead, Process Design, Design Ops, Production, Leadership, Facilitation, Communication
+image: assets/img/portfolio/ui-pipeline-full.png
+alt: A stylised picture of the UI creation phases for the map view in Trine 4
 
 caption:
-  title: Boreal Blade
-  subtitle: I joined <i>Boreal Blade</i> to take ownership of the UI, guiding the design and coaching the UI artist. I took the lead in aligning the entire development team on project focus by facilitating the creation of a game design document, which improved communication and morale, leading to a smoother launch of the game.
-  thumbnail: assets/img/portfolio/boreal-blade-thumbnail.jpg
+  title: Creating a UI Pipeline
+  subtitle: I streamlined menu design and navigation at <i>Frozenbyte</i> over two game projects. I co-created a style guide that improved team communication and accessibility, ultimately reducing UI development time by over 50% in future projects, including <i>Trine 4</i>.
+  thumbnail: assets/img/portfolio/ui-pipeline-thumbnail.png
 ---
-I was asked to join the project with the mandate of owning the UI: I would design them and guide the UI artist as they created the art style for the UIs.
+<h3>Initial Challenge: Disjointed UI Development</h3>
+When I first joined a game project at Frozenbyte, I was asked to quickly check the menus and their navigation before they were implemented. Timeline for this entire process (check and implementation) was <b>one month</b>. In reality it took <b>over 6 months</b> to finalise the menus.
 
-When I joined, I quickly found the team had not documented much of anything and as the project was moving toward the end of production, the lack of clear communication was creating mounting resentment among the small team. While everyone could give the same elevator pitch for the game, everyone was also making a game with a slightly different focus, which caused an increasing amount of issues in development.
+When the team shifted to the next project, the UI artist and I decided to ensure the UI pipeline was much more efficient in this and future projects.
 
-I sat down with the team members individually and together and facilitated the creation of a game design document. As I helped them define the core audience, core mechanics, main sources of inspiration, and the competitors to measure the game against, the communication and morale within the team improved significantly. After they were aligned on core mechanics and goals for the project, they could set a clear direction for the project and the transition from iteration phase to polish phase was much smoother.
+The existing process, where each menu screen was treated as an individual feature completely detached from other menus, led to <b>redundant work, inconsistent designs, and inefficient use of resources</b>. This created <b>a fragmented user experience</b> and <b>a general unenthusiasm toward UI development</b> in programmers.
 
-The UI design went fairly smoothly after the direction and focus of the game were clear. I worked together with the Creative Director in designing  minimalistic menus for the game and coached a 2D artist as they learned to create icons and other UI assets.
+For example, Nine Parchments shipped with <i>over 20 different shades of yellow used for highlights</i> across all menus and changing each needed to be tasked separately.
 
-<img src="assets/img/portfolio/BorealBlade/boreal-blade-character-customisation.jpg" alt="Screenshot of the character customisation menu in Boreal Blades" width=600 class="img-fluid"><br><i>Screenshot of the character customisation menu in Boreal Blades.</i>
+<h3>Solution: Style Guide</h3>
+To avoid this the UI artist and I created a style guide. It ensured <b>consistency in design, reduced redundant</b> work by programmers, and allowed for <b>faster implementation</b> of UI elements and entire menus.
+
+We opted to <b>not build a full design system</b>, as the point was to lessen the workload on programmers and we <b>didn’t have their full buy-in</b> for this project at the start.
+
+This helped streamline the UI design and creation process significantly, by improving communication and shared understanding. It not only streamlined our design process, but also provided programmers with clear guidelines, reducing ambiguity, and speeding up implementation across all the teams involved in UI development. The style guide also had the added benefit of improving the accessibility of our games as the UI was more accessible by default as the accessibility features needed to be defined only once for each UI element.
+
+<h3>Results: Reduced Development Time by 50%</h3>
+Through this and prototyping efforts introduced in <i>Trine 4</i> the UI creation process was reduced by more than half from approximately 36 man months for <i>Nine Parchments</i> to around 16 man months for <i>Trine 4</i>. This UI pipeline was adopted through all the projects in the entire company.
