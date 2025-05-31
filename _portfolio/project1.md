@@ -31,7 +31,7 @@ Early on, we identified two menus that would need extra attention: the level sel
 <h3>Level Selection</h3>
 The level select menu was tricky. In Trines 1 and 2 it had been a list with a screenshot of a memorable moment in the level and basic level info. Trine 3 introduced a full-blown board game that the player would navigate with one of the playable characters. As the game was in 3D, this worked beautifully. The team wanted something similar for Trine 4, but as the game was in 2.5D, a similar map simply wouldn’t work as it would allow more dimensions to move in than the game itself.
 
-<center><img src="assets/img/portfolio/Trine4/level_select_screens_for_T2_T3.png" alt="Left: The level select screen from Trine 2. Right: The level select screen from Trine 3." width=600 class="img-fluid"><br><i>Left: The level select screen from Trine 2. Right: The level select screen from Trine 3.</i></center>
+<center><img src="assets/img/portfolio/Trine4/level_select_screens_for_T2_T3.png" alt="Left: The level select screen from Trine 2. Right: The level select screen from Trine 3." width=600 class="img-fluid"><i>Left: The level select screen from Trine 2. Right: The level select screen from Trine 3.</i></center><br>
 
 I went through the entire <b><i>Design Thinking process</i></b> with this menu.
 
