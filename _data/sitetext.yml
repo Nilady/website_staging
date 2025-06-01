@@ -20,27 +20,28 @@ With over 10 years of experience, I provide tested processes to overcome them."
     section: services
     list:
       - title: "Design & Prototyping"
-        desc: "<i>Struggling to communicate your vision and turn it into an engaging experience?</i><br /><br />
-I help define design pillars, audience personas, core features, and user flows, bringing them to life by building interactive prototypes with Figma or your preferred tools. This ensures your product aligns with your goals and resonates with your audience, whether starting fresh or refining an existing design."
+        ingress: "<i>Struggling to communicate your vision and turn it into an engaging experience?</i><br /><br />
+        desc: I help define design pillars, audience personas, core features, and user flows, bringing them to life by building interactive prototypes with Figma or your preferred tools. This ensures your product aligns with your goals and resonates with your audience, whether starting fresh or refining an existing design."
         icon: far fa-compass
       - title: "Expert Analysis"
-        desc: "<i>Are players leaving during onboarding or other specific points? Do they get lost in your game?</i><br /><br />
-I specialize in onboarding for complex systems, providing in-depth reviews of your product (or competitors'). I identify usability issues, diagnose KPI-related problems, and deliver actionable solutions to improve engagement and retention."
+        ingress: "<i>Are players leaving during onboarding or other specific points? Do they get lost in your game?</i><br /><br />
+        desc: I specialize in onboarding for complex systems, providing in-depth reviews of your product (or competitors'). I identify usability issues, diagnose KPI-related problems, and deliver actionable solutions to improve engagement and retention."
         icon: fas fa-search #find more at https://fontawesome.com/icons
       - title: "User Testing & Playtesting Support"
-        desc: "<i>Are you confident your game delivers the experience you envision?</i><br /><br />
-I help you understand how players and users interact with it by identifying the right test audience, running insightful user tests, and providing actionable feedback to drive success."
+        ingress: "<i>Are you confident your game delivers the experience you envision?</i><br /><br />
+        desc: I help you understand how players and users interact with it by identifying the right test audience, running insightful user tests, and providing actionable feedback to drive success."
         icon: fas fa-clipboard-list
       - title: "Business & Development Process"
-        desc: "<i>Is your development process slowing you down or creating bottlenecks?</i><br /><br />
-I help refine workflows, reduce communication friction, and optimise team structure. Together, we’ll define core concepts, map milestones, and prioritise features to create a clear path to your business goals."
+        ingress: "<i>Is your development process slowing you down or creating bottlenecks?</i><br /><br />
+        desc: I help refine workflows, reduce communication friction, and optimise team structure. Together, we’ll define core concepts, map milestones, and prioritise features to create a clear path to your business goals."
         icon: far fa-calendar-alt
       - title: "Guidance, Mentoring & Coaching"
-        desc: "<i>Struggling with alignment or momentum?</i><br /><br />
-An outside perspective can unlock potential. I offer both short-term guidance and long-term coaching, helping individuals and teams set achievable goals, navigate challenges, and build lasting success."
+        ingress: "<i>Struggling with alignment or momentum?</i><br /><br />
+        desc: An outside perspective can unlock potential. I offer both short-term guidance and long-term coaching, helping individuals and teams set achievable goals, navigate challenges, and build lasting success."
         icon: fas fa-comments
       - title: "Keynote Speaking & Workshops"
-        desc: "<i>Looking for a session that will motivate and equip your team to overcome challenges?</i><br /><br />I deliver inspiring talks on player-centric development practices that equip teams with practical tools and fresh perspectives. My sessions spark innovation, foster collaboration, and empower teams to tackle challenges with confidence."
+        ingress: "<i>Looking for a session that will motivate and equip your team to overcome challenges?</i><br /><br />
+        desc: I deliver inspiring talks on player-centric development practices that equip teams with practical tools and fresh perspectives. My sessions spark innovation, foster collaboration, and empower teams to tackle challenges with confidence."
         icon: fas fa-child
 
   portfolio:
