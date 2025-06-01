@@ -3,6 +3,8 @@ layout: page
 title: UX/UI Design
 ---
 
+<center><img src="assets/img/portfolio/Trine4/T4_menu_flow_image.png" alt="Wireframes of some Trine 4 menus" width=600 class="img-fluid"></center><br>
+
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase"> UX/UI Design </h2>
 </div>
