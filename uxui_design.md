@@ -12,12 +12,12 @@ Trine 4 was created at an interesting point in the series. The first two instalm
 
 I was, together with the UI artist, in charge of the menus and their flow as well as the HUD.
 
-Previously, the menus were designed in isolation and implemented at the very end of production as quickly as possible, which resulted in a lot of iteration and wasted time. The UI artist and I had experienced this and wanted to change how menus are created not only in this project, but the entire company.
+Previously, the <b>menus were designed in isolation</b> and <b>implemented at the very end of production as quickly as possible</b>, which resulted in <b>a lot of iteration and wasted time</b>. The UI artist and I had experienced this and wanted to change how menus are created not only in this project, but the entire company.
 
 <h3>Designing the Menus</h3>
-Most of the menus were fairly straight forward and mostly copies of previous instalments of the game. I made wireframes of them while the UI artist created the art style and assets for them. Before implementing anything we turned the wireframes into a clickable prototype with Adobe XD to give a sense of how the information would be displayed and how the transitions would feel.
+Most of the menus were fairly straight forward and mostly copies of previous instalments of the game. I made <b>wireframes</b> of them while the UI artist created the art style and assets for them. Before implementing anything we turned the wireframes into a <b>clickable prototype</b> with Adobe XD to give a sense of how the <i>information would be displayed</i> and <i>how the transitions would feel</i>.
 
-By the end we had a proven layout for the menus as well as clearly defined UI components that the programmers could implement once and use across all menus. This sped up the implementation as our documentation informed the software architecture and let the programmers transitioning from gameplay implementation to jump quickly into implementing the menus. They could also check the desired functionality from the prototype, which further sped up the implementation process by cutting down on the number of iterations needed.
+By the end we had a proven layout for the menus as well as clearly defined UI components that the programmers could implement once and use across all menus. This <b>sped up the implementation</b> as our documentation informed the software architecture and let the programmers transitioning from gameplay implementation to jump quickly into implementing the menus. They could also check the desired functionality from the prototype, which further sped up the implementation process by cutting down on the number of iterations needed.
 
 <center><img src="assets/img/portfolio/Trine4/T4_menu_flow_image.png" alt="Screenshot of some of the wireframes for Trine 4 menus" width=600 class="img-fluid"><br><i>Screenshot of some of the wireframes for Trine 4 menus made with Adobe XD.</i></center><br>
 
@@ -40,12 +40,12 @@ Together with the team we <b>brainstormed</b> multiple ideas, including tapestri
 
 <center><img src="assets/img/portfolio/Trine4/T4_level_select_prototype.gif" alt="A gif of the interactive prototype I made for Trine 4 level select screen" width=600 class="img-fluid"><br><i>This is what the prototype looked like.</i></center><br>
 
-The prototype was a huge success, not only proving the concept, but also eventually <b>cutting down on implementation</b> time as the developers could refer to it to check for desired functionality. While the menu was among the most complex menus created for the game, it was also one of the fastest to implement.
+The prototype was a huge success, not only proving the concept, but also eventually <b>cutting down on implementation</b> time as the developers could refer to it to check for desired functionality. <i>While the menu was among the most complex menus created for the game, it was also one of the fastest to implement.</i>
 
 <center><img src="assets/img/portfolio/Trine4/T4_level_select_final.gif" alt="A gif of the level select menu in Trine 4" width=600 class="img-fluid"><br><i>This is what the the level select menu looks like in the game.</i></center><br>
 
 <h3>Skill Tree</h3>
-The skill tree was more straightforward, but it contained a lot of information and was a central part of the experience, so <i>we wanted to make using it feel extra rewarding.</i> Unlike previous instalments of the game where each skill was optional and could be acquired in any order, the player got certain skills at specific times in the game, while upgrades to those skills were optional and could be acquired at any time after the main skill was unlocked.
+The skill tree was more straightforward, but it contained <b>a lot of information</b> and was <b>a central part of the experience</b>, so <i>we wanted to make using it feel extra rewarding.</i> Unlike previous instalments of the game where each skill was optional and could be acquired in any order, the player got certain skills at specific times in the game, while upgrades to those skills were optional and could be acquired at any time after the main skill was unlocked.
 
 <center><img src="assets/img/portfolio/Trine4/skill_trees_for_T1_T2.png" alt="Skill trees in Trine and Trine 2" width=600 class="img-fluid"><br><i>Skill trees in Trine (left) and Trine 2 (right).</i></center><br>
 
@@ -55,13 +55,13 @@ I designed the layout for it and the UI artist focused on making all the interac
 
 <center><img src="assets/img/portfolio/Trine4/T4_skilltree_unlockWIP02.gif" alt="An animated mockup of the skill tree to showcase the different microinteractions" width=600 class="img-fluid"><br><i>An animated mockup of the skill tree to showcase the different microinteractions created by the UI artist.</i></center><br>
 
-We had time to do this as we were involved with the project from the start. However, in this instance this came with a downside too. The number of skills grew significantly toward the end of the production and the layout no longer worked. In the end it was changed to a much simpler, grid-like layout to make it look cleaner and navigation work better.
+We had time to do this as we were involved with the project from the start. However, in this instance this came with a downside too. The number of skills grew significantly toward the end of the production and the layout no longer worked. In the end it was changed to a much simpler, grid-like layout to make it <i>look cleaner and navigation work better</i>.
 
 <center><img src="assets/img/portfolio/Trine4/T4_skill_tree_final.gif" alt="The skill tree in the game" width=600 class="img-fluid"><br><i>The skill tree the game shipped with.</i></center><br>
 
 <h3>Results</h3>
-In this project we trialed a new UI pipeline that sped up menu creation from start to finish and streamlined communication across all disciplines required for UI creation from design to art to implementation, as well as QA and localisation. The process was later adopted across the entire company.
+In this project we trialed a new UI pipeline that <b>sped up menu creation from start to finish</b> and <b>streamlined communication across all disciplines</b> required for UI creation from design to art to implementation, as well as QA and localisation. <b>The process was later adopted across the entire company.</b>
 
-The level select menu especially was praised by players in different communities as "the perfect combination between a boring list and a world map, which you can travel in!"
+The level select menu especially was <b>praised by players</b> in different communities as <i>"the perfect combination between a boring list and a world map, which you can travel in!"</i>
 
-The menu designs were deemed so well made that they were copied with only minimal changes to Trine 5.
+The menu designs were deemed so well made that they were <i>copied</i> with only minimal changes <i>to Trine 5.</i>
