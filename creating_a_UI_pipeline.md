@@ -1,15 +1,14 @@
 ---
+layout: page
 title: Creating a UI Pipeline
-subtitle: UX Lead, Process Design, Design Ops, Production, Leadership, Facilitation, Communication
-image: assets/img/portfolio/ui-pipeline-full.png
-alt: A stylised picture of the UI creation phases for the map view in Trine 4
-link_to_page: creating_a_UI_pipeline
-
-caption:
-  title: Creating a UI Pipeline
-  subtitle: I streamlined menu design and navigation at <i>Frozenbyte</i> over two game projects. I co-created a style guide that improved team communication and accessibility, ultimately reducing UI development time by over 50% in future projects, including <i>Trine 4</i>.
-  thumbnail: assets/img/portfolio/ui-pipeline-thumbnail.png
 ---
+
+<center><img src="assets/img/portfolio/ui-pipeline-full.png" alt="An image of the same menu at different stages" width=600 class="img-fluid"></center><br>
+
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase"> Creating a UI Pipeline </h2>
+</div>
+
 <h3>Initial Challenge: Disjointed UI Development</h3>
 When I first joined a game project at Frozenbyte, I was asked to quickly check the menus and their navigation before they were implemented. Timeline for this entire process (check and implementation) was <b>one month</b>. In reality it took <b>over 6 months</b> to finalise the menus.
 
