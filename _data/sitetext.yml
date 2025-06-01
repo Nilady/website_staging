@@ -19,9 +19,9 @@ en: &DEFAULT_EN
 With over 10 years of experience, I provide tested processes to overcome them."
     section: services
     list:
-      - title: "Design"
+      - title: "Design and Prototyping"
         desc: "<i>Struggling to communicate your vision and turn it into an engaging experience?</i><br />
-I help define design pillars, audience personas, core features, and user flows—ensuring your product aligns with your goals and resonates with your audience, whether you're starting fresh or refining an existing design."
+I help define design pillars, audience personas, core features, and user flows—ensuring as well as build interactive prototypes either with Figma or other design tools or your technology of choice. This all will ensure your product aligns with your goals and resonates with your audience, whether you're starting fresh or refining an existing design."
         icon: far fa-compass
       - title: "Expert Analysis"
         desc: "<i>Are players leaving during onboarding or other specific points? Do they get lost in your game?</i><br />
