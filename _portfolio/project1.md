@@ -8,7 +8,7 @@ link_to_page: uxui_design
 
 caption:
   title: UX/UI Design
-  subtitle: In <i>Trine 4</i> I introduced Design Thinking, wireframing, prototyping, and design systems to the UI creation process at Frozenbyte. It improved both functionality and player immersion of the final menus as well as cut down menu implementation time by over 50% and changed the UI pipeline of the entire company.
+  subtitle: <br />In <i>Trine 4</i> I introduced Design Thinking, wireframing, prototyping, and design systems to the UI creation process at Frozenbyte. It improved both functionality and player immersion of the final menus as well as cut down menu implementation time by over 50% and changed the UI pipeline of the entire company.
 
   thumbnail: assets/img/portfolio/wireframes-thumbnail.png
 ---
