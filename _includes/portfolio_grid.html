@@ -10,6 +10,7 @@
     </div>
     <div class="row justify-content-md-center">
 	{% for project in site.portfolio %}
+	{% assign project_link = project.link_to_page | default: "/portfolio/" | append: forloop.index %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" href="{{ project_link }}" target="_blank">
           <div class="portfolio-hover">
@@ -39,6 +40,7 @@
     </div>
     <div class="row">
 	{% for project in site.portfolio %}
+	{% assign project_link = project.link_to_page | default: "/portfolio/" | append: forloop.index %}
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a class="portfolio-link" href="{{ project_link }}" target="_blank">
           <div class="portfolio-hover">
