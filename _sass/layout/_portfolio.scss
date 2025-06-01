@@ -8,6 +8,7 @@
       display: block;
       max-width: 400px;
       margin: 0 auto;
+      text-align: center;
       cursor: pointer;
       .portfolio-hover {
         position: absolute;
@@ -44,13 +45,12 @@
       max-width: 400px;
       margin: 0 auto;
       padding: 25px;
-      text-align: center;
+      text-align: justify;
       background-color: $white;
       h4 {
         margin: 0;
         text-transform: none;
       }
-      text-align: justify;
       p {
         font-size: 16px;
         margin: 0;
