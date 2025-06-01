@@ -7,7 +7,7 @@ link_to_page: facilitation
 
 caption:
   title: Facilitation
-  subtitle: I am a seasoned facilitator helping teams define and build their culture, find alignment, build roadmaps, learn new skills, and wrap up projects to maximise learnings. These workshops or sessions can be either in person or online depending on the team’s needs. The length varies from a half day workshop to a week long series, depending on what the team's current situation and objectives are.
+  subtitle: <br />I am a seasoned facilitator helping teams define and build their culture, find alignment, build roadmaps, learn new skills, and wrap up projects to maximise learnings. These workshops or sessions can be either in person or online depending on the team’s needs. The length varies from a half day workshop to a week long series, depending on what the team's current situation and objectives are.
   thumbnail: assets/img/portfolio/facilitation.jpg
 ---
 The larger the team grows and the longer they work together, the easier communication breaks apart. While best practice is to communicate early and often, there are times when you taking a deliberate moment to focus on seemingly non-urgent things such as team alignment, culture and ways of working, building a shared vision and a roadmap to the future, or looking back and learning from mistakes and successes already past.

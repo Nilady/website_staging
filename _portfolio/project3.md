@@ -7,7 +7,7 @@ link_to_page: creating_a_UI_pipeline
 
 caption:
   title: Creating a UI Pipeline
-  subtitle: I streamlined menu design and navigation at <i>Frozenbyte</i> over two game projects. I co-created a style guide that improved team communication and accessibility, ultimately reducing UI development time by over 50% in future projects, including <i>Trine 4</i>.
+  subtitle: <br />I streamlined menu design and navigation at <i>Frozenbyte</i> over two game projects. I co-created a style guide that improved team communication and accessibility, ultimately reducing UI development time by over 50% in future projects, including <i>Trine 4</i>.
   thumbnail: assets/img/portfolio/ui-pipeline-thumbnail.png
 ---
 <h3>Initial Challenge: Disjointed UI Development</h3>

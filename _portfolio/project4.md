@@ -7,7 +7,7 @@ link_to_page: setting_up_a_research_function
 
 caption:
   title: Setting Up a User Research Function
-  subtitle: I improved the user research process at <i>Frozenbyte</i> by introducing clearer research questions, refining playtest processes, and facilitating better cross-team communication. My initiatives, including concept tests, large-scale surveys, and expert reviews, led to more actionable insights, increased confidence in design decisions, and streamlined feedback processes.
+  subtitle: <br />I improved the user research process at <i>Frozenbyte</i> by introducing clearer research questions, refining playtest processes, and facilitating better cross-team communication. My initiatives, including concept tests, large-scale surveys, and expert reviews, led to more actionable insights, increased confidence in design decisions, and streamlined feedback processes.
   thumbnail: assets/img/portfolio/user-research.png
 ---
 <h3>Initial Challenges</h3>

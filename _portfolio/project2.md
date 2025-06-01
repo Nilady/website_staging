@@ -8,7 +8,7 @@ link_to_page: co-founder
 
 caption:
   title: Co-founder
-  subtitle: As a co-founder of <i>Bitmagic</i> focused on building a solid understanding of our potential users and their unmet needs, acted as a producer of the design team, focused on building a sustainable culture of excellence in the company and saw the company through its first pivot.
+  subtitle: <br />As a co-founder of <i>Bitmagic</i> focused on building a solid understanding of our potential users and their unmet needs, acted as a producer of the design team, focused on building a sustainable culture of excellence in the company and saw the company through its first pivot.
   thumbnail: assets/img/portfolio/bitmagic-thumbnail.jpg
 ---
 As a co-founder of Bitmagic, I helped <b>drive the vision</b> to revolutionise the way games and stories are created and experienced. While our original concept was ambitious, we quickly realised it was too complex to execute all at once. We <b>pivoted</b>, focusing on one of our AI tools, and restructured the team to align with this new direction. I stepped away from the company during this transition.
