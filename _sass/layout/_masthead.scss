@@ -2,12 +2,10 @@
 header.masthead {
   text-align: center;
   color: white;
-  background-image:
-	linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 10%),
-	url("#{$header-image}");
+  background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: center 10%;
   background-size: cover;
   .intro-text {
     padding-top: 250px;
