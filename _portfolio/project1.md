@@ -4,7 +4,7 @@ subtitle: Leading the efforts to create a seamless user experience for a classic
 timeline: 2018 - 2019
 image: assets/img/portfolio/trine4-full.jpg
 alt: Trine 4 key art
-link_to_page: _data/portfolio/uxui_design
+link_to_page: portfolio/uxui_design
 
 caption:
   title: UX/UI Design
