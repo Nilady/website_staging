@@ -59,4 +59,4 @@ These initiatives had several <b>company-wide benefits</b>:
 * <b>Improved</b> research <b>efficiency</b>
 * <b>Streamlined internal processes</b> for feedback
 
-<b>Long-term impact:</b>By the time I left the company, teams had the tools and processes in place to conduct <b>focused, efficient user tests</b>, with the capability to turn around <b>actionable insights within hours</b>.
+<b>Long-term impact</b><br />By the time I left the company, teams had the tools and processes in place to conduct <b>focused, efficient user tests</b>, with the capability to turn around <b>actionable insights within hours</b>.
