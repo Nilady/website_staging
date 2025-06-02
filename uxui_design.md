@@ -1,6 +1,10 @@
 ---
 layout: page
 title: UX/UI Design
+
+next:
+  title: Co-founder
+  url: https://emmavarjo.com/co-founder
 ---
 
 <div class="col-lg-12 text-center">

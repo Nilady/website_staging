@@ -1,6 +1,14 @@
 ---
 layout: page
 title: Creating a UI Pipeline
+
+next:
+  title: Setting Up a User Research Function
+  url: https://emmavarjo.com/setting_up_a_research_function
+
+previous:
+  title: Co-founder
+  url: https://emmavarjo.com/co-founder
 ---
 
 <center><img src="assets/img/portfolio/ui-pipeline-full.png" alt="An image of the same menu at different stages" width=600 class="img-fluid"></center><br>

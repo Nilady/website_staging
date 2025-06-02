@@ -1,6 +1,14 @@
 ---
 layout: page
 title: Setting Up a User Research Function
+
+next:
+  title: Facilitation
+  url: https://emmavarjo.com/facilitation
+
+previous:
+  title: Creating a UI Pipeline
+  url: https://emmavarjo.com/creating_a_UI_pipeline
 ---
 
 <center><img src="assets/img/portfolio/user-research.png" alt="A thank you message people see after completing a Google Form" width=600 class="img-fluid"></center><br>
