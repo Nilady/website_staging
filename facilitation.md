@@ -4,7 +4,7 @@ title: Facilitation
 
 previous:
   title: Setting Up a User Research Function
-  url: https://emmavarjo.com/setting_up_a_research_function
+  url: setting_up_a_research_function
 ---
 
 <center><img src="assets/img/portfolio/facilitation.jpg" alt="A group of sticky notes on a virtual wall" width=600 class="img-fluid"></center><br>
