@@ -46,11 +46,12 @@ h6 {
     text-transform: none;
     @include serif-font;
   }
-  .PageNavigation {
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
-  }
+}
+
+.PageNavigation {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
 }
 @media (min-width: 768px) {
   section {
