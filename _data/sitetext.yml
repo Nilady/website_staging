@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    text: Turn your vision into a lasting game experience
+    text: Transform Ideas into Engaging, Lasting Experiences
 
   services:
     title: "Services"
