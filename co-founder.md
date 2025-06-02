@@ -1,6 +1,14 @@
 ---
 layout: page
 title: Co-founder
+
+next:
+  title: Creating a UI Pipeline
+  url: https://emmavarjo.com/creating_a_UI_pipeline
+
+previous:
+  title: UX/UI Design
+  url: https://emmavarjo.com/uxui_design
 ---
 
 <center><img src="assets/img/portfolio/bitmagic-full.jpg" alt="Bitmagic key art" width=600 class="img-fluid"></center><br>
