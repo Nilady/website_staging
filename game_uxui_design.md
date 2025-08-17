@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UX/UI Design
+title: Game UX/UI Design
 
 next:
   title: Co-founder

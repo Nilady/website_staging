@@ -3,11 +3,13 @@ layout: page
 title: Tool UX/UI Design
 
 next:
+  title: Creating a UI Pipeline
+  url: creating_a_UI_pipeline
+
+previous:
   title: Co-founder
   url: co-founder
 ---
-
-<center><img src="assets/img/portfolio/9P-editor.jpg" alt="A screenshot of Frozenbyte's in-house editor" width=600 class="img-fluid"><br><i>A screenshot of Frozenbyte's in-house editor</i></center><br>
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase"> Tool UX/UI Design </h2>
@@ -42,14 +44,10 @@ Soon, I was leading an unofficial team of four programmers, later expanding to t
 - Designed in-game editors for customisation (paving the way for the next-generation editor)
 - Created sustainable processes for gathering and prioritising tool feedback
 
-<center><img src="assets/img/portfolio/starbase-in-game-spaceship-editor.png" alt="A screenshot of Starbase's in-game spaceship editor" width=600 class="img-fluid"></center><br>
-
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase"> A screenshot of Starbase's in-game spaceship editor my team created </h2>
-</div>
-
 <h3>Impact</h3>
 - <b>Morale Boost:</b> Developers reported higher satisfaction simply because someone was listening and advocating for their needs.
 - <b>Collaboration:</b> Programmers volunteered time to improve tools, growing into a cross-disciplinary tools team.
 - <b>Roadmap Clarity:</b> Outdated, duplicate, and obsolete backlog items were replaced with a prioritised, actionable plan.
 - <b>Future-Proofing:</b> The in-game editors we delivered became the foundation for the next-generation editor.
+
+<center><img src="assets/img/portfolio/starbase-in-game-spaceship-editor.png" alt="A screenshot of Starbase's in-game spaceship editor" width=600 class="img-fluid"><br><i>A screenshot of Starbase's in-game spaceship editor</i></center><br>
