@@ -10,7 +10,7 @@ next:
 <center><img src="assets/img/portfolio/Trine4/T4_menu_flow_image.png" alt="Screenshot of some of the wireframes for Trine 4 menus" width=600 class="img-fluid"><br><i>Screenshot of some of the wireframes for Trine 4 menus made with Adobe XD.</i></center><br>
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase"> UX/UI Design </h2>
+	<h2 class="section-heading text-uppercase"> Game UX/UI Design </h2>
 </div>
 
 <h3>Context</h3>

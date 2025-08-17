@@ -7,8 +7,8 @@ next:
   url: setting_up_a_research_function
 
 previous:
-  title: Co-founder
-  url: co-founder
+  title: Tool UX/UI Design
+  url: tool_uxui_design
 ---
 
 <center><img src="assets/img/portfolio/ui-pipeline-full.png" alt="An image of the same menu at different stages" width=600 class="img-fluid"></center><br>
