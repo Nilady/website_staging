@@ -8,7 +8,7 @@ link_to_page: tool_uxui_design
 
 caption:
   title: Tool UX/UI Design
-  subtitle: <br />Designing UX for tools is very different from designing UX for games. The motivation and needs for the user are vastly different and so is the need to eliminate most all friction between where the user is and what they want to do. (In games there needs to be friction between the player and their ultimate goal but <i>not</i> their immediate next action.
+  subtitle: <br />Designing tools isn’t about fun—it’s about flow. At Frozenbyte, I led the effort to make our proprietary engine faster, smoother, and developer-friendly.
   thumbnail: assets/img/portfolio/9P-editor-thumbnail.jpg
 ---
 <center><img src="assets/img/portfolio/9P-editor.jpg" alt="A screenshot of Frozenbyte's in-house editor" width=600 class="img-fluid"></center><br>
