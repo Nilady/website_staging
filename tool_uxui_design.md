@@ -11,7 +11,7 @@ previous:
   url: co-founder
 ---
 
-<center><img src="assets/img/portfolio/9P-editor.jpg" alt="A screenshot of Frozenbyte's in-house editor" width=600 class="img-fluid"><br><i>A screenshot of Frozenbyte's in-house editor</i></center><br>
+<center><img src="assets/img/portfolio/9P-editor.jpg" alt="A screenshot of Frozenbyte's in-house editor" width=600 class="img-fluid"></center><br>
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase"> Tool UX/UI Design </h2>

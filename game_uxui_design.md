@@ -7,7 +7,7 @@ next:
   url: co-founder
 ---
 
-<center><img src="assets/img/portfolio/uxui-design-thumbnail.png" alt="Screenshot of some of the wireframes for Trine 4 menus" width=446 class="img-fluid"><br><i>Screenshot of some of the wireframes for Trine 4 menus made with Adobe XD</i></center><br>
+<center><img src="assets/img/portfolio/uxui-design-thumbnail.png" alt="Screenshot of some of the wireframes for Trine 4 menus" width=446 class="img-fluid"></center><br>
 
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase"> Game UX/UI Design </h2>
