@@ -8,7 +8,7 @@ link_to_page: tool_uxui_design
 
 caption:
   title: Tool UX/UI Design
-  subtitle: <br />Designing tools isn’t about fun—it’s about flow. At Frozenbyte, I led the effort to make our proprietary engine faster, smoother, and developer-friendly.
+  subtitle: <br />Designing tools isn’t about fun: It’s about flow. At Frozenbyte, I led the effort to make our proprietary engine faster, smoother, and developer-friendly, boosting morale and collaboration across the studio. What started as small improvements soon grew to a complete overhaul of the in-house tools with a dedicated tools team.
   thumbnail: assets/img/portfolio/9P-editor-thumbnail.jpg
 ---
 <center><img src="assets/img/portfolio/9P-editor.jpg" alt="A screenshot of Frozenbyte's in-house editor" width=600 class="img-fluid"></center><br>
